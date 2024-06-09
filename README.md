@@ -11,7 +11,7 @@ This project provides a simple command-line interface for language translation a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/language-translator.git
+    git clone https://github.com/Spandana-M-Patil/Language-translator.git
     cd language-translator
     ```
 
